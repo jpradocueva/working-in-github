@@ -111,3 +111,81 @@ Prepare your Pull Request from your personal repo to the Organization repo.
 
 <img width="801" alt="image" src="https://user-images.githubusercontent.com/3258579/182615975-0f037c3e-f2c7-4b77-92ae-43562eedbf01.png">
 
+## Updating an Existing Pull Request
+
+1.- Select the correct repository
+
+2.- Select the correct branch
+
+3.- Select the correct Pull Request
+
+4.- Click `Changes`
+
+5.- Then select Open in your editor e.g. Visual Code (VSC)
+
+6.- Edit the document in VSC
+
+7.- Close editor
+
+8.- Click `Changes`
+
+9.- Add Title and Description
+
+10.- Commit changes
+
+<img width="731" alt="image" src="https://user-images.githubusercontent.com/3258579/182628557-11b9a2ee-aaaa-42a8-aa76-222e2a61fa52.png">
+
+11.- Push GitHub-desktop-<user>
+
+12.- Go to the Organizatino GitHub.com account
+
+<img width="718" alt="image" src="https://user-images.githubusercontent.com/3258579/182629146-0780c678-87a9-4d4d-b99a-b2bab1341a8b.png">
+
+13.- Search for your PR
+
+<img width="823" alt="image" src="https://user-images.githubusercontent.com/3258579/182630164-41805c6c-f5c9-4df4-9bc9-5d3956ab6994.png">
+
+14.- Open the PR
+
+15.- Look for your changes
+
+<img width="747" alt="image" src="https://user-images.githubusercontent.com/3258579/182630488-46e30784-e05b-40f6-808c-031d637c0aab.png">
+
+## Create a New File
+
+1.- Select the repository
+
+2.- Select the Branch e.g. `Proposal`
+
+3.- Fetch Upstream
+
+<img width="770" alt="image" src="https://user-images.githubusercontent.com/3258579/182631244-df439da3-ea2c-45ff-a914-080cc02256a6.png">
+
+4.- Click `Changes`
+
+5.- Click in `Open Visual Studio Code` (editor)
+
+6.- Create a new file in the editor
+
+7.- Save file
+
+8.- Click `Changes`
+
+<img width="854" alt="image" src="https://user-images.githubusercontent.com/3258579/182655793-c56e9588-1986-4dd5-bfa4-40c41dae0d9c.png">
+
+9.- Enter, Title and Description
+
+10.- Click `Commit` to proposal
+
+<img width="659" alt="image" src="https://user-images.githubusercontent.com/3258579/182656022-bb9453c9-d876-4887-b391-dd9747f59245.png">
+
+11.- Push Upstream
+
+12.- Go To GitHub.com and see the PR there
+
+<img width="762" alt="image" src="https://user-images.githubusercontent.com/3258579/182656273-37b184bd-199d-48af-bd6c-bdc6886bd87c.png">
+
+
+
+
+
