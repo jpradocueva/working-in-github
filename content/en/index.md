@@ -4,6 +4,8 @@ description: ''
 position: 10
 category: GitHub
 ---
+## About this tutorial
+It teaches you, step-by-step, how to collaborate in OMP projects by creating Issues (comments) and Pull Requests (changes to documents).
 
 ### What is GitHub?
 It is a code/document hosting platform for version control & collaboration
@@ -16,7 +18,6 @@ To collaborate in the development of:
 * Profile data, code or snippets, and
 * Documentation (Whitepapers, Technical Specifications)
 
-### About this tutorial
-It teaches you, step-by-step, how to collaborate in OMP projects by creating Issues (comments) and Pull Requests (changes to documents).
+
 
 
