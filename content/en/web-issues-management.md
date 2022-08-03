@@ -25,6 +25,13 @@ category: Web Interface
 
 <img width="870" alt="image" src="https://user-images.githubusercontent.com/3258579/182516414-d4239b31-8fea-4dec-a977-63a649fc23f9.png">
 
+## Assign, Add Label, Project or Milestone
+ 1. Assign people, labels, projects or milestones to an Issue or Pull Request
+     This helps to classify Issues and Pull Requests 
 
+<img width="721" alt="image" src="https://user-images.githubusercontent.com/3258579/182516917-86fd8a80-d780-4579-a679-89e033e12301.png">
+
+  2. Mention someone in the Issue
+     @<username>, e.g., to call the attention of your Project Manager type in the issue @jpradocueva 
 
 
