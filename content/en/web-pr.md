@@ -1,14 +1,13 @@
 ---
-title: Pull Request Management
+title: Pull Request
 description: ''
 position: 220
 category: Web Interface
 ---
-
-## Updating an Existing Document
+## Pull Request Management
+### Updating an Existing Document
 
 1.- Select the corresponding repository & branch.
-
 <img width="664" alt="image" src="https://user-images.githubusercontent.com/3258579/182517141-496ba3c9-c3fd-4424-b090-9db92c265bad.png">
 
 2.- Select the document where you want to do some changes and click edit.
@@ -28,14 +27,14 @@ category: Web Interface
 
 <img width="641" alt="image" src="https://user-images.githubusercontent.com/3258579/182517957-ae7d0f34-9a06-4f87-852d-30260d93bd20.png">
 
-## Updating a Pull Request
+### Revising a Pull Request
 
-1.-  Open a Pull Request
+1.- Open a Pull Request
 
 <img width="779" alt="image" src="https://user-images.githubusercontent.com/3258579/182518379-74808f03-263d-4dba-a2be-63a7dc49f08b.png">
 
 
-2.-  Open  `Files changed` tab
+2.- Open  `Files changed` tab
 
 3.- In the document that you want to edit, click in `…` & then `Edit File`
 
@@ -50,7 +49,7 @@ category: Web Interface
 
 <img width="765" alt="image" src="https://user-images.githubusercontent.com/3258579/182518729-4832ba20-ebfc-4527-9be8-b26401e61533.png">
 
-## Add a File
+### Adding a New File
 
 Unless you have WRITE access, you won’t be able to upload a file directly to the GitHub Organization repository. 
 
@@ -62,7 +61,7 @@ Create an empty file as a placeholder, then edit or copy and paste the content �
 **B) Use GitHub Client**
 - Use your option [2] to submit a Pull Request with the new file
 
-### Create an Empty File
+#### Create an Empty File
 
 1.- Choose a branch and click “Create new file”
 * The system will display a note indicating that the OMP repo will be forked in your Personal GitHub.com repo. This will allow you to create a Pull Request
@@ -84,7 +83,7 @@ Create an empty file as a placeholder, then edit or copy and paste the content �
 
 To edit the file after submitting the Pull Request.
 
-6.- Select the recently created Pull Request
+6-. Select the recently created Pull Request
 
 <img width="703" alt="image" src="https://user-images.githubusercontent.com/3258579/182521101-69906012-59f5-4a36-9680-1295556930a2.png">
 
@@ -92,6 +91,6 @@ To edit the file after submitting the Pull Request.
 
 <img width="725" alt="image" src="https://user-images.githubusercontent.com/3258579/182521231-3130c1d6-050d-43a3-aef7-973c48b5a6d2.png">
 
-8.-  Copy and paste content 
+8.- Copy and paste content 
 
 <img width="799" alt="image" src="https://user-images.githubusercontent.com/3258579/182521334-f3a00922-0135-466b-b7fc-3bc8bf941c1a.png">

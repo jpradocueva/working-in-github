@@ -1,11 +1,11 @@
 ---
-title: Issues Management
+title: Issues 
 description: ''
 position: 210
 category: Web Interface
 ---
-
-## Creating a New Issue
+## Issue Management
+### Creating a New Issue
 
 1. Click `New Issue`
 2. Select Type 
@@ -19,13 +19,13 @@ category: Web Interface
 
  <img width="686" alt="image" src="https://user-images.githubusercontent.com/3258579/182514396-1d3c3c94-9dee-470b-b5b2-5126a2f9f495.png">
 
-## Updating an Existing Issue
+### Updating an Existing Issue
 5. Add a comment at the end of the Issue thread
 6. Click `Comment` to submit the Issue
 
 <img width="870" alt="image" src="https://user-images.githubusercontent.com/3258579/182516414-d4239b31-8fea-4dec-a977-63a649fc23f9.png">
 
-## Assign, Add Label, Project or Milestone
+### Assign, Add Label, Project or Milestone
  1. Assign people, labels, projects or milestones to an Issue or Pull Request
      This helps to classify Issues and Pull Requests 
 
@@ -34,4 +34,5 @@ category: Web Interface
   2. Mention someone in the Issue
      @<username>, e.g., to call the attention of your Project Manager type in the issue @jpradocueva 
 
-
+### Reviewing | Commenting an Issue
+TBD
