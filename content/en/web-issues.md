@@ -34,5 +34,5 @@ category: Web Interface
   2. Mention someone in the Issue
      @<username>, e.g., to call the attention of your Project Manager type in the issue @jpradocueva 
 
-### Reviewing | Commenting an Issue
+### Reviewing, Commenting an Issue
 TBD
