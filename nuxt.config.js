@@ -7,6 +7,6 @@ export default theme({
     primaryColor: '#E24F55'
   },
   router: { 
-    base: '/working-in-github/' 
+    base: '' 
   }
 })
