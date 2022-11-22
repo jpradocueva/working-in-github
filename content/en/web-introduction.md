@@ -8,11 +8,10 @@ category: Web Interface
 ## Overview
 About using the Web Browser 
 
-<img width="1158" alt="image" src="https://user-images.githubusercontent.com/3258579/201000106-57c5dcbd-c534-4dbe-9559-3cbc74ac775b.png">
-
-Add above image from:
-* File name: github-ops
-* path: https://app.diagrams.net/#G1CKSBrZsgtykuJRCQgg2pSkSAyf9LMnq0
+<figure>
+<embed style="width: 100%" src="image/github-ops.drawio.svg" alt="Operations in GitHub">
+    <figcaption>Operations in GitHub</figcaption>
+</figure>
 
 ## Issues
 
