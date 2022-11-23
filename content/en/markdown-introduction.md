@@ -19,6 +19,8 @@ For further details, please see https://github.github.com/gfm/
 
 <img width="808" alt="image" src="https://user-images.githubusercontent.com/3258579/182511736-dd4aac7c-7fc6-41fd-bca2-f260213d24f0.png">
 
+## Markdown for MD2HTML Tool
+These markdown constructors are interpreted by the [MD2HTML](https://standardshub.github.io/markdown_guidelines/md2html-overview) developed by Standards Hub. The [MD2HTML](https://standardshub.github.io/markdown_guidelines/md2html-overview)` automatically buils a PDF and HTML document for each markdown document.
 
 <table>
   <thead>
@@ -30,18 +32,11 @@ For further details, please see https://github.github.com/gfm/
   <tbody>
     <tr>
       <td>
-        <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#headings"
-          target="_blank">Headings</a><br>
-        <ul>
-          <li><a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#links-to-a-section"
-              target="_blank">Links to a Section</a></li>
-          <li><a
-              href="https://standardshub.github.io/markdown_guidelines/md2html-extended#links-to-a-section-from-within-a-table"
-              target="_blank">Links to a Section From Within a Table</a></li>
-        </ul>
+        <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#headings" target="_blank">Headings</a><br>
+        <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#links-to-a-section" target="_blank">Links to a Section</a><br>
+        <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#links-to-a-section-from-within-a-table" target="_blank">Links to a Section From Within a Table</a>
       </td>
       <td>
-        support-markdown-syntax.md
         <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#paragraph"
           target="_blank">Paragraph</a><br>
         <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#block-quote" target="_blank">Block
@@ -57,16 +52,8 @@ For further details, please see https://github.github.com/gfm/
       <td>
         <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#tables"
           target="_blank">Tables</a><br>
-        <ul>
-          <li>
-            <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#links-to-a-table"
-              target="_blank">Links to a Table</a><br>
-          </li>
-          <li>
-            <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#links-to-a-table-from-within-a-table"
-              target="_blank">Links to a Figure From Within a Table</a><br>
-          </li>
-        </ul>
+        <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#links-to-a-table"  target="_blank">Links to a Table</a><br>
+        <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#links-to-a-table-from-within-a-table" target="_blank">Links to a Figure From Within a Table</a><br>
       </td>
       <td>
         <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#ordered-list"
@@ -81,16 +68,8 @@ For further details, please see https://github.github.com/gfm/
       <td>
         <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#figures"
           target="_blank">Figures</a><br>
-        <ul>
-          <li>
-            <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#link-to-a-figure"
-              target="_blank">Links to a Figure</a><br>
-          </li>
-          <li>
-            <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#links-to-a-figure-from-within-a-table"
-              target="_blank">Links to a Figure From Within a Table</a><br>
-          </li>
-        </ul>
+        <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#link-to-a-figure"  target="_blank">Links to a Figure</a><br>
+        <a href="https://standardshub.github.io/markdown_guidelines/md2html-extended#links-to-a-figure-from-within-a-table" target="_blank">Links 
       </td>
       <td></td>
     </tr>
