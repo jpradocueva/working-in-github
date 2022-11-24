@@ -9,7 +9,7 @@ category: Web Interface
 About using the Web Browser 
 
 <figure>
-<embed style="width: 100%" src="image/github-ops.drawio.svg" alt="Operations in GitHub">
+<embed style="width: 100%" src="image/github-ops1.drawio.svg" alt="Operations in GitHub">
     <figcaption>Operations in GitHub</figcaption>
 </figure>
 
