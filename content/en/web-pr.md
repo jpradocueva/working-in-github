@@ -94,3 +94,6 @@ To edit the file after submitting the Pull Request.
 8.- Copy and paste content 
 
 <img width="799" alt="image" src="https://user-images.githubusercontent.com/3258579/182521334-f3a00922-0135-466b-b7fc-3bc8bf941c1a.png">
+
+## Merging a Pull Request
+
